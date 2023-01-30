@@ -1,0 +1,7 @@
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\obj\Debug\Persistencias.csprojResolveAssemblyReference.cache
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\bin\Debug\Persistencias.dll
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\bin\Debug\Persistencias.pdb
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\bin\Debug\EntidadesCompartidas.dll
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\bin\Debug\EntidadesCompartidas.pdb
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\obj\Debug\Persistencias.dll
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\obj\Debug\Persistencias.pdb

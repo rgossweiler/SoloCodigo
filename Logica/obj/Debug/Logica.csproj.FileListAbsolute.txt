@@ -1,0 +1,9 @@
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\Logica.dll
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\Logica.pdb
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\obj\Debug\Logica.dll
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\obj\Debug\Logica.pdb
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\Persistencias.dll
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\Persistencias.pdb
+C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
