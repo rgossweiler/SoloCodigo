@@ -91,7 +91,7 @@ namespace Persistencias
             oComando.CommandType = CommandType.StoredProcedure;
 
             oComando.Parameters.AddWithValue("@nomUs", pUsuario.NomUsuario);
-            oComando.Parameters.AddWithValue("contraseña", pUsuario.Contraseña);
+            oComando.Parameters.AddWithValue("@pass", pUsuario.Contraseña);
 
             SqlParameter oRetorno = new SqlParameter("@Retorno", SqlDbType.Int);
             oRetorno.Direction = ParameterDirection.ReturnValue;

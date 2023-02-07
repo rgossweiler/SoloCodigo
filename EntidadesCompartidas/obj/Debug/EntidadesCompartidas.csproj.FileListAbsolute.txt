@@ -2,3 +2,9 @@ C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\EntidadesCompartidas\bin\Debug\Enti
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojAssemblyReference.cache
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb

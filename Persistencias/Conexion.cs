@@ -10,6 +10,6 @@ namespace Persistencias
 {
     public class Conexion
     {
-        public const string Con = @"Data Source=MSI\SQLEXPRESS01; Initial catalog=ProyectoFinal; Integrated Security=true";
+        public const string Con = @"Data Source=DESKTOP-ULT8L7H\SQLEXPRESS; Initial Catalog=ProyectoFinal;Integrated Security = true";
     }
 }

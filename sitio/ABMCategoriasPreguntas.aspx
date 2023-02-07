@@ -9,7 +9,7 @@
     <p>
     </p>
     <body>
-    <form id="form1" runat="server" 
+    <form id="form1" 
     
         style="position: absolute; top: 149px; left: 199px; font-family: 'Bahnschrift Light SemiCondensed'; height: 359px; width: 992px;">
     <p style="background-color: #66CCFF; font-size: 50px; font-family: Haettenschweiler;" 
@@ -76,7 +76,7 @@
                 <td class="style12">
                     <img border="1" class="style13" src="Imagenes/Home.jpg" /></td>
                 <td bgcolor="#999999" style="color: #FFFFFF; font-weight: bold">
-                    <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/Default.aspx">HomePage</asp:LinkButton>
+                    <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/Principal.aspx">HomePage</asp:LinkButton>
                 </td>
             </tr>
         </table>

@@ -7,3 +7,14 @@ C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\Persistencias.dll
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\EntidadesCompartidas.pdb
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\bin\Debug\Persistencias.pdb
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\bin\Debug\Logica.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\bin\Debug\Logica.pdb
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\bin\Debug\Persistencias.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\bin\Debug\Persistencias.pdb
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\obj\Debug\Logica.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Logica\obj\Debug\Logica.pdb

@@ -5,3 +5,12 @@ C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\bin\Debug\EntidadesCo
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\bin\Debug\EntidadesCompartidas.pdb
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\obj\Debug\Persistencias.dll
 C:\ProyectoFinal\ProyectoFinal\ProyectoFinal\Persistencias\obj\Debug\Persistencias.pdb
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\bin\Debug\Persistencias.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\bin\Debug\Persistencias.pdb
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\obj\Debug\Persistencias.csprojAssemblyReference.cache
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\obj\Debug\Persistencias.csproj.CoreCompileInputs.cache
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\obj\Debug\Persistencias.csproj.CopyComplete
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\obj\Debug\Persistencias.dll
+C:\Users\Seba\Documents\DescargaDocumentos2022-2023\ProyectoFinal\SoloCodigo\Persistencias\obj\Debug\Persistencias.pdb
